@@ -1,0 +1,72 @@
+.header {
+  color: grey;
+  text-align:center;
+  border: 2px solid white;
+  padding: 8px;
+  margin:2px;
+}
+
+h1 {
+  font-size:65px;
+  text-align:center;
+}
+
+body {
+  background-color: black;
+}
+
+.right-sidebar {
+  float:right;
+  width: 20%;
+  text-align:center;
+  border: 2px solid white;
+  padding: 8px;
+  margin:2px;
+  color:grey;
+}
+
+.title {
+  width:98.1%;
+  border: 2px solid white;
+  padding: 8px;
+  margin:2px;
+  color:grey;
+  text-align: center;
+}
+
+.banner {
+  width:76%;
+  border: 2px solid white;
+  padding: 8px;
+  margin:2px;
+  color:grey;
+  text-align: center;
+}
+
+.desc {
+  width:76%;
+  border: 2px solid white;
+  padding: 8px;
+  margin:2px;
+  color:grey;
+  text-align: center;
+}
+.shows {
+  width:20%;
+  border: 2px solid white;
+  padding:8px;
+  margin:2px;
+  color:grey;
+  text-align:left;
+  float:right;
+}
+
+.place {
+  width:auto;
+  border: 2px solid white;
+  padding: 8px;
+  margin:2px;
+  color:grey;
+  text-align:left;
+  float:left;
+}
